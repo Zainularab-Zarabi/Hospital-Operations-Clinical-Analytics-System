@@ -47,7 +47,7 @@ The project combines database modeling, synthetic healthcare data generation, SQ
 
 ## Screenshots
 
-![Hospital Operations Dashboard](Hospital.png)
+![Hospital Operations Dashboard](images/Hospital.png)
 
 
 
