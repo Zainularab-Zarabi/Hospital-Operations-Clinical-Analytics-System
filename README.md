@@ -15,7 +15,7 @@ The project combines database modeling, synthetic healthcare data generation, SQ
 - Interactive Power BI dashboard
 - KPI tracking and operational analytics
 - Appointment and revenue trend analysis
-- Department-level performance insights
+- Department level performance insights
 - Diagnosis and prescription analytics
 - Room utilization reporting
 
@@ -23,11 +23,8 @@ The project combines database modeling, synthetic healthcare data generation, SQ
 
 ## Tools & Technologies
 - SQL Server
-- SSMS
 - Power BI
-- DAX
-- Python
-- Relational Database Modeling
+- Power query
 
 ---
 
@@ -48,6 +45,15 @@ The project combines database modeling, synthetic healthcare data generation, SQ
 - Appointment status trends
 - Revenue distribution insights
 
+## Screenshots
+![Hospital Operations Dashboard](Hospital.png)
+
+
+
+![Hospital Operations Dashboard](Hospital2.png)
+
+
+
 ---
 
 ## Business Intelligence Questions
@@ -62,29 +68,9 @@ The project explored operational healthcare analytics questions such as:
 
 ---
 
-## Repository Structure
-
-hospital-operations-dashboard/
-│
-├── README.md
-├── dashboard/
-│   └── DB_Final Project Dashboard.pbix
-│
-├── report/
-│   └── CST2102 - MedicalDB_ProjectReport.docx
-│
-├── sql/
-│   └── SQL scripts (DDL, DML, BI queries)
-│
-├── images/
-│   ├── dashboard-page1.png
-│   └── dashboard-page2.png
-
----
-
 ## Notes
 - Synthetic healthcare data was generated for educational and analytical purposes only.
-- Patient-identifiable information was intentionally excluded for privacy and realism.
+- Patient identifiable information was intentionally excluded for privacy and realism.
 - SQL scripts will be added in a future update.
 
 ---
