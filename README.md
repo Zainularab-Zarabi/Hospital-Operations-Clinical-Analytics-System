@@ -46,11 +46,12 @@ The project combines database modeling, synthetic healthcare data generation, SQ
 - Revenue distribution insights
 
 ## Screenshots
+
 ![Hospital Operations Dashboard](Hospital.png)
 
 
 
-![Hospital Operations Dashboard](Hospital2.png)
+
 
 
 
