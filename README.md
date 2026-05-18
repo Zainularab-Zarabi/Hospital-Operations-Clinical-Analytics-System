@@ -41,6 +41,8 @@ The SQL script answers questions such as:
 
 ## Screenshots
 
+![Hospital Operations Dashboard](images/Hospital.png)
+
 
 ## Key Takeaways
 - Multi table joins are useful for combining normalized data into readable reports.
