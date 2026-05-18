@@ -42,6 +42,7 @@ The SQL script answers questions such as:
 ## Screenshots
 
 ![Hospital Operations Dashboard](images/Hospital.png)
+![Hospital Operations Dashboard](images/Hospital2.png)
 
 
 ## Key Takeaways
