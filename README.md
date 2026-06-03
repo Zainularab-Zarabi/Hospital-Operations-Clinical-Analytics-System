@@ -64,22 +64,22 @@ The project combines database modeling, synthetic healthcare data generation, SQ
 ---
 
 ## Business Intelligence Questions
-The project explored operational healthcare analytics questions such as:
-- Appointment trends over time
-- Doctor workload analysis
-- Revenue generation by department
-- Room utilization tracking
-- Most common diagnoses
-- Most prescribed medicines
-- Payment status distribution
+
+This project explored operational healthcare analytics questions using SQL queries and Power BI visualizations, including:
+
+- What is the average number of appointments per patient?
+- Which doctors have the highest patient load?
+- Which departments generate the highest revenue?
+- What are the most prescribed medicines?
+- What percentage of rooms are occupied by room type?
+- How do appointment statuses vary over time?
+- How many appointments were scheduled, completed, cancelled, or marked as no-show?
 
 ---
 
 ## Notes
 - Synthetic healthcare data was generated for educational and analytical purposes only.
 - Patient identifiable information was intentionally excluded for privacy and realism.
-- SQL scripts will be added in a future update.
-
 ---
 
 ## Author
